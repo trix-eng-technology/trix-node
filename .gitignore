@@ -1,0 +1,6 @@
+.pio/
+.DS_Store
+node_modules/
+# per-device and per-deployment keys: never commit
+include/lorawan_keys.h
+include/trix_ota_pubkey.h

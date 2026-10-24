@@ -1,0 +1,7 @@
+{
+  "name": "TrixLorawanPayload",
+  "version": "1.0.0",
+  "description": "Binary payload v1 of lorawan-bme280-node (portable, no Arduino)",
+  "frameworks": "*",
+  "platforms": "*"
+}
